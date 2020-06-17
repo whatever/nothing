@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-maddog", # Replace with your own username
+    name="nothing", # Replace with your own username
     version="0.0.2",
     author="Matt Derasoirs",
     author_email="nothing@razorbla.de",
