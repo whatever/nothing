@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="example-pkg-maddog", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Matt Derasoirs",
     author_email="nothing@razorbla.de",
     scripts=["bin/whatever-okay"],
